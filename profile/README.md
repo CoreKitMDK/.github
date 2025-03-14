@@ -1,6 +1,6 @@
 ## True loosely coupled microservices
 
-# CoreKit Services Overview
+### CoreKit Services Overview
 
 | Service                          | Description                                                    |
 |----------------------------------|----------------------------------------------------------------|

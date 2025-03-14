@@ -1,4 +1,4 @@
-## Hi there 👋
+## True loosely coupled microservices
 
 # CoreKit Services Overview
 
